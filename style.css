@@ -1,0 +1,28 @@
+.topo{
+    background-color: rgb(31, 226, 226);
+    text-align: center;
+}
+.fundo{
+    background-color: grey;
+}
+.tudo{
+    text-align: center;
+
+
+}
+.lateral{
+    position: fixed;
+    width: 200px;
+    height: 100%;
+
+}
+.lateral ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.lateral li a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
